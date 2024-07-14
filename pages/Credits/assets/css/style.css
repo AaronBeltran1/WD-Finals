@@ -100,7 +100,7 @@ body {
 .credit-item {
     background: #1e2a38;
     border-radius: 10px;
-    width: 150px;
+    width: 1000px;
     padding: 20px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -116,7 +116,26 @@ body {
     width: 100px;
     height: auto;
 }
-
+.credit-item h2 {
+    color: #fff;
+    animation: fade-in 1s ease;
+    transition: color 0.3s, transform 0.3s;
+    text-decoration:underline;
+}
+.credit-item h2:hover {
+    color: #007bff;
+    transform: scale(1.1);
+}
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 .footer {
     background: #1e2a38;
     color: #fff;
