@@ -60,7 +60,7 @@ body {
 .header-right {
     display: flex;
     align-items: center;
-    margin-right: 1%; /* Moves the header-right section slightly to the left */
+    margin-right: 1%;
 }
 
 .header-right a {
@@ -240,8 +240,6 @@ body {
         transform: translateY(0);
     }
 }
-
-/* Additional Styles for Specific Design Features */
 
 .nav a {
     font-weight: bold;

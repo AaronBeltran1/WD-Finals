@@ -60,7 +60,7 @@ body {
 .header-right {
     display: flex;
     align-items: center;
-    margin-right: 1%; /* Moves the header-right section slightly to the left */
+    margin-right: 1%;
 }
 
 .header-right a {
