@@ -85,7 +85,7 @@ body {
 
 .top h1 {
     font-size: 48px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 .projects {
@@ -140,12 +140,14 @@ body {
     background: #1e2a38;
     color: #fff;
     padding: 20px;
+    margin-top: 150px;
+    height: 100px;
     text-align: center;
     animation: fade-in 1s ease;
 }
 
 .footer p {
-    margin: 0;
+    margin: 50px;
 }
 
 @keyframes fade-in {
