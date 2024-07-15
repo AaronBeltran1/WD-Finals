@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project is my Resume Website that showcases my previous tasks/works. With the help of HTML and CSS using Visual Studio Code, I am able to create different designs, layout, animations, and more. This website will show the level of skills and knowledge I have in developing and designing a website.
 
 Guiding Question:
 - What is the project - The project is about creating my personal website that showcase my design skills and web development knowledge.
@@ -79,7 +79,10 @@ Guiding Question:
 ## Rules and Principles
 1. Always use ***WD-*** in the front of the Title of the Project for the Subject followed by your custom naming.
 2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
+3. Make sure that the files are in their own folders.
+4. Rename the folder based on the website.
+5. Use only External CSS
+6. File Structure to follow below.
 
 ```
 WD-ProjectName
@@ -111,6 +114,7 @@ WD-ProjectName
 |-|-|-|
 | w3schools | Helped me on designing and finding a decent layout for my website. | https://www.w3schools.com/ |
 | YouTube | Guided me throughout the process of making my personal website. | https://www.youtube.com/ |
+| Website Insipiration | My guide on designing and gave me idea on creating the website. | https://naiahhh.github.io/LANDING-AWD-FEUTECH/index.html |
 
  <!--START_SECTION:waka-->
 
