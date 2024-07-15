@@ -113,4 +113,13 @@ WD-ProjectName
 | YouTube | Guided me throughout the process of making my personal website. | https://www.youtube.com/ |
 
  <!--START_SECTION:waka-->
+
+```txt
+HTML       3 hrs 29 mins   ██████████████░░░░░░░░░░░   56.52 %
+C++        1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.68 %
+CSS        1 hr 12 mins    █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+Markdown   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+```
+
 <!--END_SECTION:waka-->
