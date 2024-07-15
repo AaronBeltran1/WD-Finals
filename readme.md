@@ -111,3 +111,6 @@ WD-ProjectName
 |-|-|-|
 | w3schools | Helped me on designing and finding a decent layout for my website. | https://www.w3schools.com/ |
 | YouTube | Guided me throughout the process of making my personal website. | https://www.youtube.com/ |
+
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
