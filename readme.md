@@ -119,10 +119,7 @@ WD-ProjectName
  <!--START_SECTION:waka-->
 
 ```txt
-HTML       51 mins         ████████████▒░░░░░░░░░░░░   49.55 %
-C++        27 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-Markdown   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-CSS        7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
