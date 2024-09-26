@@ -119,7 +119,7 @@ WD-ProjectName
  <!--START_SECTION:waka-->
 
 ```txt
-Java   49 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
